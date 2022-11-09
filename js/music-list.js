@@ -378,8 +378,8 @@ let allMusic = [
         src: "music-63"
     },
     {
-        name : "ERROR{JS music-list not found}",
-        artis : "ERROR{JS music-list not found}",
+        name : "Tiara [Roger]",
+        artis : "Raffa Affar",
         img: "music-64",
         src: "music-64"
     },
