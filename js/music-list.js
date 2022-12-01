@@ -1,7 +1,7 @@
 let allMusic = [
     {
-        name : "Miss You",
-        artis : "Oliver Tree & Robin Schuiz",
+        name : "Mars Smp 5 ",
+        artis : "SMPN 5 BJB",
         img: "music-1",
         src: "music-1"
     },
@@ -480,9 +480,63 @@ let allMusic = [
         src: "music-80"
     },
     {
-        name : "Total Semua Musik 81",
-        artis : "Create by Rodot",
+        name : "COOL (Your Rainbow)",
+        artis : "Nmixx",
         img: "music-81",
         src: "music-81"
+    },
+    {
+        name : "Fall In Love Alone",
+        artis : "Stacey Ryan",
+        img: "music-82",
+        src: "music-82"
+    },
+    {
+        name : "Right Now",
+        artis : "One Direction",
+        img: "music-83",
+        src: "music-83"
+    },
+    {
+        name : "Old Love",
+        artis : "Yuji",
+        img: "music-84",
+        src: "music-84"
+    },
+    {
+        name : "Impurities",
+        artis : "LE SSERAFIM",
+        img: "music-85",
+        src: "music-85"
+    },
+    {
+        name : "Losing Interest",
+        artis : "Shiloh Dynasty",
+        img: "music-86",
+        src: "music-86"
+    },
+    {
+        name : "Summertime Sadness",
+        artis : "Lana Del Rey",
+        img: "music-87",
+        src: "music-87"
+    },
+    {
+        name : "Apocalypse",
+        artis : "Cigarettes After Sex",
+        img: "music-88",
+        src: "music-88"
+    },
+    {
+        name : "Here With Me",
+        artis : "d4vd",
+        img: "music-89",
+        src: "music-89"
+    },
+    {
+        name : "Snowfall",
+        artis : "Øneheart & reidenshi",
+        img: "music-90",
+        src: "music-90"
     },
 ]
